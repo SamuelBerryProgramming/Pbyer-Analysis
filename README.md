@@ -6,6 +6,6 @@
 ##### [Total Fare by City Type](https://github.com/SamuelBerryProgramming/Pyber-Analysis/blob/master/analysis/PyBer_fare_summary.png)  
 ##### [Rideshare Summary](https://github.com/SamuelBerryProgramming/Pyber-Analysis/blob/master/analysis/pyber_summary.png)  
 ## Recommendations
-  * Make rural trips less expensive to promote more rideshare use in these areas. 
+  * Make rural and suburban trips less expensive to promote more rideshare use in these areas. 
   * A slight increase in urban fares will offset the change in rural trip fare and increase overall profitability.
   * Increasing the driver's share of the fare for rural and suburban trips will incentivize better service availability in those areas.
